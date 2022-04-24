@@ -1,0 +1,31 @@
+.App {
+    padding-bottom: 40px;
+}
+
+.navbar-light .navbar-brand,
+.navbar-light .navbar-nav .nav-link {
+    color: white !important;
+    background-color: rgb(2, 2, 43);
+}
+
+.bg-info {
+    background-color: rgb(2, 2, 43);
+}
+
+nav {
+    background-color: rgb(2, 2, 43);
+}
+
+.card-header img {
+    width: 100%;
+}
+
+.card-body {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.card-body button {
+    margin-right: 5px;
+}
